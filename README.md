@@ -2,7 +2,7 @@
 
 ✨ **Passionate Frontend Developer** | React & Next.js Enthusiast ✨  
 
-I specialize in creating dynamic, user-friendly, and performant web applications using modern technologies. My journey in web development is fueled by a love for crafting seamless user experiences.
+I specialize in creating dynamic, user-friendly, and performant web applications using modern technologies
 
 ---
 
