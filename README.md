@@ -65,6 +65,7 @@ Explore my journey as a Frontend Developer specializing in modern technologies l
 
 ## 📫 **Get in Touch**
 - 💼 **Portfolio**:  https://umidaakbarova1.netlify.app/ 
+- 📝 **LinkedIn**: https://www.linkedin.com/in/umida-akbarova-199721299/
 - ✉️ **Email**: akbarovau42@gmail.com  
 
 ---
