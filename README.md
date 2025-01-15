@@ -15,12 +15,6 @@ I specialize in creating dynamic, user-friendly, and performant web applications
 ### 🎨 Styling Libraries:
 - Tailwind CSS, Chakra UI, Material UI, Ant Design, Emotion CSS, Bootstrap5, Shadcn  
 
-### 🔧 Tools & Platforms:
-- **Build Tools**: Vite  
-- **Version Control**: Git, GitHub  
-- **Geolocation**: Yandex Maps  
-- **Headless CMS**: Strapi  
-
 ## ✨ **Fun Facts**
 - 🚀 I love bringing designs to life with pixel-perfect UI development.  
 - 🌍 I’m always exploring new tools and best practices in frontend development.  
