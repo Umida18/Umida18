@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Umida!  
+## 👋 I'm Umida!  
 
 ✨ **Passionate Frontend Developer** | React & Next.js ✨  
 
