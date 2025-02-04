@@ -1,6 +1,6 @@
 ## 👋 I'm Umida!  
 
-✨ **Passionate Frontend Developer** | React & Next.js ✨  
+✨ ** Frontend Developer** | React & Next.js ✨  
 
 I specialize in creating dynamic, user-friendly, and performant web applications using modern technologies
 
